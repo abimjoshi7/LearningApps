@@ -1,11 +1,8 @@
 class Question {
-  String question;
-  bool answer;
+  String q;
+  bool a;
 
-  Question({String q, bool a}) {
-    question = q;
-    answer = a;
-  }
+  Question({this.q,this.a});
 }
 
 class QuizBank {
@@ -43,11 +40,11 @@ class QuizBank {
   ];
 
   String getQuestion() {
-    return _qBank[qnum].question;
+    return _qBank[qnum].q;
   }
 
   bool getAnswer() {
-    return _qBank[qnum].answer;
+    return _qBank[qnum].a;
   }
 
   void nextQuestion() {
