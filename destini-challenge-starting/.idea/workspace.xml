@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="139d6dae-f39e-490c-aa6d-8cc7666190bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/story.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/story.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/story_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/story_brain.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mm2VM5BQouJB6b3kRTbmW2FxbB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="139d6dae-f39e-490c-aa6d-8cc7666190bc" name="Default Changelist" comment="" />
+      <created>1610084467214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610084467214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="127" width="1207" height="832" key="AVDManager" timestamp="1610283485833">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1207" height="832" key="AVDManager/72.27.1848.1053@72.27.1848.1053" timestamp="1610283485833" />
+    <state width="1361" height="269" key="GridCell.Tab.0.bottom" timestamp="1610283485806">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1361" height="269" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1610283485806" />
+    <state width="1361" height="269" key="GridCell.Tab.0.center" timestamp="1610283485806">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1361" height="269" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1610283485806" />
+    <state width="1361" height="269" key="GridCell.Tab.0.left" timestamp="1610283485806">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1361" height="269" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1610283485806" />
+    <state width="1361" height="269" key="GridCell.Tab.0.right" timestamp="1610283485806">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1361" height="269" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1610283485806" />
+  </component>
+</project>
